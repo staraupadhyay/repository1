@@ -1,0 +1,12 @@
+F:\wolves\Assignment\Assignment\bin\Debug\Assignment.exe.config
+F:\wolves\Assignment\Assignment\bin\Debug\Assignment.exe
+F:\wolves\Assignment\Assignment\bin\Debug\Assignment.pdb
+F:\wolves\Assignment\Assignment\obj\Debug\Assignment.exe
+F:\wolves\Assignment\Assignment\obj\Debug\Assignment.pdb
+F:\wolves\Assignment\Assignment\obj\Debug\Assignment.csprojResolveAssemblyReference.cache
+F:\wolves\Git-source-code\repository1\Assignment\bin\Debug\Assignment.exe.config
+F:\wolves\Git-source-code\repository1\Assignment\bin\Debug\Assignment.exe
+F:\wolves\Git-source-code\repository1\Assignment\bin\Debug\Assignment.pdb
+F:\wolves\Git-source-code\repository1\Assignment\obj\Debug\Assignment.csprojResolveAssemblyReference.cache
+F:\wolves\Git-source-code\repository1\Assignment\obj\Debug\Assignment.exe
+F:\wolves\Git-source-code\repository1\Assignment\obj\Debug\Assignment.pdb
